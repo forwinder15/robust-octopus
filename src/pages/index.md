@@ -18,8 +18,8 @@ sections:
 - type: intro
   template: intro
   title: Johnathan Coker
-  subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
-    accumsan est arcu donec sed Eleifend Integer."
+  subtitle: Your full-service digital partner with capabilities across web design,
+    development and marketing.
   section_id: intro
   background_style: style1
   actions:
