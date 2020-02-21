@@ -8,7 +8,7 @@ sidebar:
   - title: Who I am
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: What I do
     url: "#two"
     is_primary: false
   - title: Get in touch
