@@ -89,7 +89,7 @@ sections:
       USA
     url: ''
   - title: Email
-    text: user@Hyperspace.tld
+    text: jrogercoker@gmail.com
     url: "#"
   - title: Phone
     text: "(000) 000-0000"
