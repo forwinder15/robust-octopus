@@ -36,10 +36,10 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: What I do
+  subtitle: 'I provide a range of services to help your business succeed. What is
+    your goal? Conversions? Traffic? Make the phone ring? Get leads? We can make it
+    happen. '
   section_id: two
   background_style: style1
   features_list:
