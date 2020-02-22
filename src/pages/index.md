@@ -78,7 +78,7 @@ sections:
     eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
     urna est aliquam sem, sit amet imperdiet est velit quis lorem.
   section_id: three
-  background_style: style2
+  background_style: style4
   contact_list:
   - title: Address
     text: |-
