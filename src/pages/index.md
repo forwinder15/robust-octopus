@@ -67,7 +67,7 @@ sections:
     icon: fa-diamond
   actions:
   - label: Learn more
-    url: "/contact"
+    url: "#three"
     is_scrolly: true
     is_primary: false
   component: Features
