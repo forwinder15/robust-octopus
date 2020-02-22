@@ -59,7 +59,7 @@ sections:
       is mobile first designed. '
     icon: fa-desktop
   - title: Connect
-    text: Bring all you internet presence together and work for you!
+    text: Bring all you internet presence together to work for you!
     icon: fa-chain
   - title: Affordable
     text: I don't have to overhead of a large agency and can do better work fro less
