@@ -43,9 +43,8 @@ sections:
   section_id: two
   background_style: style1
   features_list:
-  - title: Lorem ipsum amet
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Web Development
+    text: Custom Sites Built with your customer in mine
     icon: fa-code
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
