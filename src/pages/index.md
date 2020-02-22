@@ -44,7 +44,7 @@ sections:
   background_style: style1
   features_list:
   - title: Web Development
-    text: Custom Sites Built with your customer in mine
+    text: Custom Sites Built with your customer in mind
     icon: fa-code
   - title: 'Security '
     text: 'You want your site safe and secure. I will help you get there. https and
