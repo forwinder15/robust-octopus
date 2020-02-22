@@ -111,7 +111,7 @@ sections:
       url: "#"
     - title: LinkedIn
       icon: fa-linkedin
-      url: "#"
+      url: https://www.linkedin.com/in/johnathan-coker-758887110/
   component: Contact
 menus:
   main:
