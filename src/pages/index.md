@@ -32,7 +32,7 @@ sections:
   template: spotlights
   title: Spotlights Section
   section_id: one
-  background_style: style4
+  background_style: style3
   component: Spotlights
 - type: features
   template: features
