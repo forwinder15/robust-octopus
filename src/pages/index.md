@@ -46,9 +46,9 @@ sections:
   - title: Web Development
     text: Custom Sites Built with your customer in mine
     icon: fa-code
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: 'Security '
+    text: 'You want your site safe and secure. I will help you get there. https and
+      encryption made easy. '
     icon: fa-lock
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
