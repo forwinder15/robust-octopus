@@ -105,7 +105,7 @@ sections:
       url: https://www.facebook.com/john.coker.75
     - title: GitHub
       icon: fa-github
-      url: "#"
+      url: https://github.com/forwinder15
     - title: Instagram
       icon: fa-instagram
       url: "#"
