@@ -54,17 +54,16 @@ sections:
     text: Google my business. Adwords, Adsense Let me take care of it for a very affordable
       price!
     icon: fa-cog
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: 'Mobile First '
+    text: 'With over 60% of people finding you with a phone it is important your site
+      is mobile first designed. '
     icon: fa-desktop
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Connect
+    text: Bring all you internet presence together and work for you!
     icon: fa-chain
-  - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Affordable
+    text: I don't have to overhead of a large agency and can do better work fro less
+      money
     icon: fa-diamond
   actions:
   - label: Learn more
