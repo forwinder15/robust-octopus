@@ -92,7 +92,7 @@ sections:
     text: jrogercoker@gmail.com
     url: "#"
   - title: Phone
-    text: "(000) 000-0000"
+    text: "(727) 251-1388"
     url: ''
   social:
     title: Social
