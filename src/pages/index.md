@@ -84,8 +84,8 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
+      775 Town Court
+      Bronson, FL 32621
       USA
     url: ''
   - title: Email
