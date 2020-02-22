@@ -99,7 +99,7 @@ sections:
     social_icons:
     - title: Twitter
       icon: fa-twitter
-      url: "#"
+      url: https://twitter.com/johncokerdev
     - title: Facebook
       icon: fa-facebook
       url: "#"
