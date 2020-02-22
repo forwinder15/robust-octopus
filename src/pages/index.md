@@ -50,9 +50,9 @@ sections:
     text: 'You want your site safe and secure. I will help you get there. https and
       encryption made easy. '
     icon: fa-lock
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: SEO
+    text: Google my business. Adwords, Adsense Let me take care of it for a very afordable
+      price!
     icon: fa-cog
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
