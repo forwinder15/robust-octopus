@@ -21,7 +21,7 @@ sections:
   subtitle: Your full-service digital partner with capabilities across web design,
     development and marketing.
   section_id: intro
-  background_style: style1
+  background_style: style2
   actions:
   - label: Learn more
     url: "#one"
