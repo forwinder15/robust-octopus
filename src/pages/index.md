@@ -102,7 +102,7 @@ sections:
       url: https://twitter.com/johncokerdev
     - title: Facebook
       icon: fa-facebook
-      url: "#"
+      url: https://www.facebook.com/john.coker.75
     - title: GitHub
       icon: fa-github
       url: "#"
