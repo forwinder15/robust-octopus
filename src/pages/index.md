@@ -108,7 +108,7 @@ sections:
       url: https://github.com/forwinder15
     - title: Instagram
       icon: fa-instagram
-      url: "#"
+      url: https://www.instagram.com/johnboycoker/
     - title: LinkedIn
       icon: fa-linkedin
       url: https://www.linkedin.com/in/johnathan-coker-758887110/
