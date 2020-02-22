@@ -41,7 +41,7 @@ sections:
     your goal? Conversions? Traffic? Make the phone ring? Get leads? We can make it
     happen. '
   section_id: two
-  background_style: style1
+  background_style: style2
   features_list:
   - title: Web Development
     text: Custom Sites Built with your customer in mind
