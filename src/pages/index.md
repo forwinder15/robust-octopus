@@ -67,8 +67,8 @@ sections:
     icon: fa-diamond
   actions:
   - label: Learn more
-    url: "/generic"
-    is_scrolly: false
+    url: "/contact"
+    is_scrolly: true
     is_primary: false
   component: Features
 - type: contact
