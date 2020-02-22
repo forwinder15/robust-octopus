@@ -74,9 +74,8 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: Feel free to reach out! I would love to talk to you about your project or
+    your company! Thank you again for your consideration.
   section_id: three
   background_style: style4
   contact_list:
