@@ -51,7 +51,7 @@ sections:
       encryption made easy. '
     icon: fa-lock
   - title: SEO
-    text: Google my business. Adwords, Adsense Let me take care of it for a very afordable
+    text: Google my business. Adwords, Adsense Let me take care of it for a very affordable
       price!
     icon: fa-cog
   - title: Veroeros quis lorem
